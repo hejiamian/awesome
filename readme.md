@@ -610,6 +610,7 @@
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
+- [Douban 2021 Ranking List](https://book.douban.com/annual/2021?source=book_navigation)
 
 ## Editors
 
